@@ -1,3 +1,8 @@
+---
+name: four-fits
+description: Run a structured growth diagnostic using Brian Balfour's Four Fits framework. Use when the user asks why their product isn't growing, wants to audit go-to-market strategy, is hitting a growth plateau, or says things like "we have PMF but growth is stalling," "our CAC is too high," or "we don't know where to invest next." Scrapes the user's website, collects key metrics, and diagnoses which of Market-Product, Product-Channel, Channel-Model, or Model-Market fit is broken.
+---
+
 # SKILL: Four Fits Growth Diagnostic
 
 ## Purpose
